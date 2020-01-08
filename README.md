@@ -1,4 +1,4 @@
-#  TMDB - A currency Moview rating App is written in Swift
+#  TMDB - A Moview rating App is written in Swift
 
 ## Features
 -  Latest moview rating and details
