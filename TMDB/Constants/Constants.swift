@@ -21,7 +21,8 @@ enum Constants {
   static let genres = "Genres:"
   static let budget = "Budget:"
   static let revenue = "Revenue:"
-  // Misc
+ // TEST
+// Misc
   enum Misc {
     static let nothingFoundError = "Search..."
     static let networkError = "Unable to establish a connection to the server. Try again"
