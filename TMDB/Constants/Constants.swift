@@ -14,7 +14,7 @@ enum Colors {
   static let navigationTextColor = UIColor(red: 79.0/255.0, green: 87.0/255.0, blue: 99.0/255.0, alpha: 1.0)
   static let darkSlate = UIColor(red: 33.0/255.0, green: 38.0/255.0, blue: 44.0/255.0, alpha: 1.0)
 }
-
+//NEW TEST
 enum Constants {
   static let description = "Description:"
   static let releaseDate = "Release Date:"
